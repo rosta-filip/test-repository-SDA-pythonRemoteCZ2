@@ -1,1 +1,1 @@
-TEST c.23.
+zmena comitu.
