@@ -1,1 +1,2 @@
 verze 1 branche-1
+update na verzi 2.0
